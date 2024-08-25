@@ -1,4 +1,4 @@
-# Handwritten-Digit-Detection
+# Heart disease prediction
 Heart Disease Prediction using Logistic Regression
 This repository contains a project for predicting heart disease using logistic regression. The project involves data preprocessing, splitting the data into training and testing sets, and evaluating the model's accuracy.
 
